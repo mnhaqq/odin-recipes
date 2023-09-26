@@ -1,0 +1,11 @@
+#main-head {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.recipe-list {
+    font-size: large;
+    font-weight: 600;
+    text-align: center;
+}

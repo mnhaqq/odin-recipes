@@ -1,0 +1,22 @@
+#main-head {
+    font-size: 90px;
+    color: red;
+    background-color: aqua;
+    text-align: center;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
+
+.sub-headings {
+    text-align: center;
+    font-size: 60px;
+    color: red;
+    background-color: aqua;
+}
+
+.normal-text {
+    font-size: 40px;
+}
